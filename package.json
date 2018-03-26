@@ -1,0 +1,29 @@
+{
+  "name": "mean-ang5",
+  "version": "1.0.0",
+  "description": "MEAN Stack With Angular 5",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokhtars/MEAN-sing-up-with-token.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular 5",
+    "App"
+  ],
+  "author": "Mokhtar Sougrati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mokhtars/MEAN-sing-up-with-token/issues"
+  },
+  "homepage": "https://github.com/mokhtars/MEAN-sing-up-with-token#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
